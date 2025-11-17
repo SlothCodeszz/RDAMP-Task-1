@@ -1,7 +1,5 @@
 ## A task performed for Real Care Tech Mark Bootcamp
 
----
-
 # RDAMP Sales Analysis Report
 
 ## Introduction
